@@ -1,1 +1,1 @@
-Path name of the current working directory
+diplay the content of your contents directory in a long format
